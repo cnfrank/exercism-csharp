@@ -1,0 +1,13 @@
+C:\Users\Administrator.USER-20170315BM\Exercism\csharp\own-test\bin\Debug\netcoreapp3.1\own-test.exe
+C:\Users\Administrator.USER-20170315BM\Exercism\csharp\own-test\bin\Debug\netcoreapp3.1\own-test.deps.json
+C:\Users\Administrator.USER-20170315BM\Exercism\csharp\own-test\bin\Debug\netcoreapp3.1\own-test.runtimeconfig.json
+C:\Users\Administrator.USER-20170315BM\Exercism\csharp\own-test\bin\Debug\netcoreapp3.1\own-test.runtimeconfig.dev.json
+C:\Users\Administrator.USER-20170315BM\Exercism\csharp\own-test\bin\Debug\netcoreapp3.1\own-test.dll
+C:\Users\Administrator.USER-20170315BM\Exercism\csharp\own-test\bin\Debug\netcoreapp3.1\own-test.pdb
+C:\Users\Administrator.USER-20170315BM\Exercism\csharp\own-test\obj\Debug\netcoreapp3.1\own-test.csprojAssemblyReference.cache
+C:\Users\Administrator.USER-20170315BM\Exercism\csharp\own-test\obj\Debug\netcoreapp3.1\own-test.AssemblyInfoInputs.cache
+C:\Users\Administrator.USER-20170315BM\Exercism\csharp\own-test\obj\Debug\netcoreapp3.1\own-test.AssemblyInfo.cs
+C:\Users\Administrator.USER-20170315BM\Exercism\csharp\own-test\obj\Debug\netcoreapp3.1\own-test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.USER-20170315BM\Exercism\csharp\own-test\obj\Debug\netcoreapp3.1\own-test.dll
+C:\Users\Administrator.USER-20170315BM\Exercism\csharp\own-test\obj\Debug\netcoreapp3.1\own-test.pdb
+C:\Users\Administrator.USER-20170315BM\Exercism\csharp\own-test\obj\Debug\netcoreapp3.1\own-test.genruntimeconfig.cache

@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\hello-world"
+		},
+		{
+			"path": "..\\leap"
+		},
+		{
+			"path": "..\\gigasecond"
+		},
+		{
+			"path": "..\\resistor-color"
+		},
+		{
+			"path": "..\\isogram"
+		},
+		{
+			"path": "..\\own-test"
+		},
+		{
+			"path": "..\\clock"
+		},
+		{
+			"path": "..\\space-age"
+		},
+		{
+			"path": "..\\high-scores"
+		},
+		{
+			"path": "..\\grade-school"
+		},
+		{
+			"path": "..\\huiwen"
+		},
+		{
+			"path": "..\\series"
+		},
+		{
+			"name": "csharp",
+			"path": ".."
+		}
+	]
+}
