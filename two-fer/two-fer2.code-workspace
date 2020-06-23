@@ -42,6 +42,15 @@
 		{
 			"name": "csharp",
 			"path": ".."
+		},
+		{
+			"path": "..\\robot-name"
+		},
+		{
+			"path": "..\\sum-of-multiples"
+		},
+		{
+			"path": "..\\grains"
 		}
 	]
 }
