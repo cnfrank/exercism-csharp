@@ -54,6 +54,15 @@
 		},
 		{
 			"path": "..\\phone-number"
+		},
+		{
+			"path": "..\\strain"
+		},
+		{
+			"path": "..\\nucleotide-count"
+		},
+		{
+			"path": "..\\collatz-conjecture"
 		}
 	]
 }
